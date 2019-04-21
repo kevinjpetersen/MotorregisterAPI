@@ -2,7 +2,7 @@
 Automatically unpack, generate and add Danish Motorregister Data to a Mongo Database from an XML File.
 
 ## Introduction
-This repository contains a .NET Core 2.2 project (C#) that takes an Danish Motorregister XML File (From SKAT) as Input, and will unpack, generate and add each item to a Mongo Database (However this should be easy to change to another DB if so desired).
+This repository contains a .NET Core 2.2 project (C#) that takes a Danish Motorregister XML File (From SKAT) as Input, and will unpack, generate and add each item to a Mongo Database (However this should be easy to change to another DB if so desired).
 
 ## Requirements
 * Linux or Windows Server
